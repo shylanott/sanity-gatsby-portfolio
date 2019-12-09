@@ -29,9 +29,6 @@ const AboutPage = props => {
         <p>I'm a digital marketer with a passion for data science and analytics with a side of web design and development. I worked in journalism as a radio and web producer for five years gaining experience in a range of skills from design and development to project and client management. I keep my skills sharp by regularly contributing to open source and side projects.
 Outside of work I enjoy playing pick-up basketball, floral design and exploring southern California with my husband Brandon.
 Want to know more?</p> 
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
-        />
         <span
             style={{
               display: 'inline-block',
