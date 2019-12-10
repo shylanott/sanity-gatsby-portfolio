@@ -1,10 +1,13 @@
+# shylanott.com (https://www.shylanott.com)
+
+- Copyright (c) 2019 Shyla Nott
+- All Rights Reserved
+
 # sanity-gatsby-portfolio
 
 A portfolio using structured content and a static site builder. 
 
 Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-portfolio).
-
-[shylanott.com](https://www.shylanott.com) 
 
 ## What you have
 

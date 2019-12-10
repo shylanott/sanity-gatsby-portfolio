@@ -9,7 +9,6 @@ import {mapEdgesToNodes, filterOutDocsWithoutSlugs} from '../lib/helpers'
 import {responsiveTitle1} from '../components/typography.module.css'
 
 
-
 const AboutPage = props => {
   const {data, errors} = props
   if (errors) {
