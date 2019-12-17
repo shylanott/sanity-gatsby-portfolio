@@ -7,8 +7,6 @@ import SEO from '../components/seo'
 import Layout from '../containers/layout'
 import {mapEdgesToNodes, filterOutDocsWithoutSlugs} from '../lib/helpers'
 import {responsiveTitle1} from '../components/typography.module.css'
-import Footer from './Footer'
-
 
 
 const AboutPage = props => {
@@ -33,7 +31,6 @@ Outside of work I enjoy playing pick-up basketball, floral design and exploring 
         <a href="mailto:shyla.nott@gmail.com"><strong>shyla.nott@gmail.com</strong></a>
         {projectNodes && projectNodes.length > 0 && <ProjectPreviewGrid nodes={projectNodes} />}
       </Container>
-      <Footer />
     </Layout>
   )
 }
