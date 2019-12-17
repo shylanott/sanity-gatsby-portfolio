@@ -17,7 +17,6 @@ const Layout = ({children, onHideNav, onShowNav, showNav, siteTitle}) => (
         </div>
       </div>
     </footer>
-    <Footer />
   </>
 )
 
