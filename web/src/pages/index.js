@@ -12,6 +12,7 @@ import SEO from '../components/seo'
 import Layout from '../containers/layout'
 import {responsiveTitle1} from '../components/typography.module.css'
 
+import styles from '../components/project.module.css'
 
 export const query = graphql`
   query IndexPageQuery {
