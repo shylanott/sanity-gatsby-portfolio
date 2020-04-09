@@ -91,7 +91,11 @@ const IndexPage = props => {
       <Container>
         <h1 hidden>Welcome to {site.title}</h1>
         <h1 className={responsiveTitle1}>Hi, I'm Shyla</h1>
-        <p>I'm a frontend web developer in San Diego. I work at a nonproft investigative newsroom as the web and social media manager. Before that, I was a radio producer and board op for All Sides with Ann Fisher – a live, public affairs talk show at the NPR member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism.</p> 
+        <p>I'm a frontend web developer in San Diego. I work for a nonproft newsroom 
+          as the web and social media manager. Before that, I was a radio producer and 
+          board op for All Sides with Ann Fisher – a live, public affairs talk show at 
+          the NPR member station in Columbus, Ohio. I earned my master's from Northwestern 
+          University's Medill School of Journalism.</p> 
         <p>If you'd like to get in touch, <a href="mailto:shyla.nott@gmail.com">send me an email</a> or reach out on <a href="https://www.linkedin.com/in/shylanott/">LinkedIn</a>.</p>
         {projectNodes && (
           <ProjectPreviewGrid
