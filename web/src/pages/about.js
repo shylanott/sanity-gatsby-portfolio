@@ -31,7 +31,7 @@ const AboutPage = props => {
         <div className={styles.mainContent}>
           <h1 className={responsiveTitle1}>Hi, I'm Shyla</h1> 
           {/* <img src={headshot} className={avatarStyles.avatar}></img> */}
-          <p>I'm a frontend web developer with a passion for data analysis and visualizations. 
+          <p>I'm a web developer with a passion for data analysis and visualizations. 
             I'm based in San Diego where I work for a nonproft investigative newsroom as the web and social media manager. 
             Before that, I was a radio producer for a live, public affairs talk show at the NPR 
             member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism.</p> 
