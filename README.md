@@ -1,4 +1,4 @@
-# shylanott.com (https://www.shylanott.com)
+# shylanott.com (https://shylanott.com)
 
 - Copyright (c) 2019 Shyla Nott
 - All Rights Reserved
