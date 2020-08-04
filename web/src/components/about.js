@@ -40,8 +40,8 @@ const About = props => {
                         <img src={Headshot}></img>
                     </div>
                     <div className="col-12 col-sm-12 col-md-6">
-                        <p>I'm a web developer with a passion for data analysis and visualizations. 
-                        I'm based in San Diego where I work for a nonproft investigative newsroom as the web and social media manager. 
+                        <p>I'm a digital storyteller with a passion for web design, data analysis and visualizations. 
+                        I'm based in San Diego where I work for a nonprofit investigative newsroom as the web and social media manager. 
                         Before that, I was a radio producer for a live, public affairs talk show at the NPR 
                         member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism.</p> 
                         <p>I keep my skills sharp by regularly pursuing open source side projects <a href="https://github.com/shylanott/twitter-sentiment-analyzer">like this one</a>.</p>
