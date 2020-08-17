@@ -27,7 +27,7 @@ const About = props => {
       <Container>
         <div className={styles.mainContent}>
             <section id="about" className="section">
-                <h1 className={responsiveTitle1}>Hi, I'm Shyla</h1> 
+                <h1 className={responsiveTitle1}>Hi, I'm Shyla.</h1> 
                 <div className="section-content">
                     <div className="row">
                     <div className="col-12 col-sm-10 offset-sm-1 col-md-6 offset-md-0 col-lg-5 offset-lg-1 ">
