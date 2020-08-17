@@ -40,13 +40,15 @@ const About = props => {
                         <img src={Headshot}></img>
                     </div>
                     <div className="col-12 col-sm-12 col-md-6">
-                        <p>I'm a digital storyteller with a passion for web design, data analysis and visualizations. 
+                        <p>I'm a digital storyteller passionate about web design and development, analytics and data visualizations. 
                         I'm based in San Diego where I work for a nonprofit investigative newsroom as the web and social media manager. 
-                        Before that, I was a radio producer for a live, public affairs talk show at the NPR 
-                        member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism.</p> 
+                        Before that, I was the assitant producer for All Sides with Ann Fisher – a live, public affairs talk show at the NPR 
+                        member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism with
+                        a focus on interactive publishing.</p> 
                         <p>I keep my skills sharp by regularly pursuing open source side projects <a href="https://github.com/shylanott/twitter-sentiment-analyzer">like this one</a>.</p>
-                        <p>Outside of work I enjoy pick-up basketball, floral design, watching Masterpiece on PBS 
+                        <p>Outside of journalism I enjoy pick-up basketball, floral design, watching Masterpiece on PBS 
                         and exploring southern California with my awesome husband.</p>
+                        <p>Fun fact about me: I played the baritone and tuba growing up.</p>
                         <p>Want to know more? Let's chat!</p>
                         <ul>
                         <li><a href="mailto:shyla.nott@gmail.com"><strong>Email</strong></a></li>

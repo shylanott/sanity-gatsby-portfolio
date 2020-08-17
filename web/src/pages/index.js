@@ -97,11 +97,12 @@ const IndexPage = props => {
           <h1 className={responsiveTitle1}>Hi, I'm Shyla.</h1>
           <div>
             <p>I'm a digital storyteller and web designer passionate about making complex information 
-              digestible, accessible and engaging. I work at a nonprofit investigative newsroom in 
-              San Diego as the web and social media manager. Before that, I was a radio producer for a 
-              live, public affairs talk show at the NPR member station in Columbus, Ohio. I earned my 
-              master's from Northwestern University's Medill School of Journalism with a focus on
-              interactive publishing.</p>
+              digestible, accessible and engaging. 
+              
+              I work at a nonprofit investigative newsroom in San Diego as the web and social media manager. 
+              Before that, I was the assistant producer for a live, public affairs talk show at the NPR member 
+              station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of 
+              Journalism with a focus on interactive publishing.</p>
             <p>If you'd like to say hello, <a href="mailto:shyla.nott@gmail.com">send me an email</a> or reach out on <a href="https://www.linkedin.com/in/shylanott/">LinkedIn</a>.</p>
           </div>
         </div>
