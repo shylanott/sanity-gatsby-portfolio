@@ -40,7 +40,7 @@ const About = props => {
                         <img src={Headshot}></img>
                     </div>
                     <div className="col-12 col-sm-12 col-md-6">
-                        <p>I'm a digital storyteller passionate about web design and development, analytics and data visualizations. 
+                        <p>I'm a digital storyteller passionate about web design and development, analytics and data visualization. 
                         I'm based in San Diego where I work for a nonprofit investigative newsroom as the web and social media manager. 
                         Before that, I was the assitant producer for All Sides with Ann Fisher – a live, public affairs talk show at the NPR 
                         member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism with
