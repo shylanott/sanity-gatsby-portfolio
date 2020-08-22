@@ -38,13 +38,26 @@ const AboutPage = props => {
                   fluid={data.HeadshotGatsbyImage.fluid}
                   alt="This is a headshot"
               /> */}          
-              <p>I'm a web developer with a passion for data analysis and visualizations. 
-                I'm based in San Diego where I work for a nonproft investigative newsroom as the web and social media manager. 
-                Before that, I was a radio producer for a live, public affairs talk show at the NPR 
-                member station in Columbus, Ohio. I earned my master's from Northwestern University's Medill School of Journalism.</p> 
-              <p>I keep my skills sharp by regularly pursuing open source side projects <a href="https://github.com/shylanott/twitter-sentiment-analyzer">like this one</a>.</p>
-              <p>Outside of work I enjoy pick-up basketball, floral design, watching Masterpiece on PBS 
-                and exploring southern California with my awesome husband.</p>
+              <p>I'm a digital media manager passionate about web design, development and analytics. 
+              I'm based in San Diego where I work for a nonprofit investigative newsroom. My goal is 
+              to make complex information digestible, engaging and accessible – often through digital
+              experiences. I help my newsroom do that by integrating product thinking into our work and 
+              by strategically aligning business, audience and technology goals while highlighting our journalism.</p>
+              
+              <p>Earlier in my career, I was the assitant producer for All Sides with Ann Fisher – a live, public affairs talk show at the NPR 
+              member station in Columbus, Ohio.</p>
+              
+              <p>Before that, I earned my master's from Northwestern University's Medill School of Journalism with
+              a focus on interactive publishing.</p> 
+              
+              <p>I like to keep my skills sharp by regularly pursuing open source side projects <a href="https://github.com/shylanott/twitter-sentiment-analyzer">like this one</a>.</p>
+              
+              <p>Outside of journalism I enjoy pick-up basketball, floral design, watching Masterpiece on PBS 
+              and exploring southern California with my awesome husband.</p>
+
+              <p>I hail from the cornfields of central Illinois where I spent most weekends on my grandpa's farm. 
+              Another random fact about me: I played the baritone and tuba as a kid.</p>
+              
               <p>Want to know more? Let's chat!</p>
               <ul>
                 <li><a href="mailto:shyla.nott@gmail.com"><strong>Email</strong></a></li>
