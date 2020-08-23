@@ -31,7 +31,7 @@ const AboutPage = props => {
       <Container>
         <div className={styles.mainContent}>
           <div>
-            <h1 className={responsiveTitle1}>Hi, I'm Shyla</h1> 
+            <h1 className={responsiveTitle1}>Hi, I'm Shyla.</h1> 
               {/* <img src={headshot} className={avatarStyles.avatar}></img> */}
               {/* <img src={Headshot} alt='Shyla Nott profile picture' /> */}
               {/* <Img 
