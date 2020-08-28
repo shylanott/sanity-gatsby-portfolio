@@ -20,6 +20,14 @@ module.exports = {
         watchMode: !isProd,
         overlayDrafts: !isProd && token
       }
+    },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        typekit: {
+          id: 'brf5dub'
+        }
+      }
     }
   ]
 }

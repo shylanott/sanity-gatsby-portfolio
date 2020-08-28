@@ -99,7 +99,7 @@ const IndexPage = props => {
             <p>I'm a digital manager, web designer and developer passionate about making complex information 
               digestible, accessible and engaging.</p> 
               
-            <p>I work for a nonprofit investigative newsroom in San Diego as the digital content manager where I oversee the organization's core products, 
+            <p>I work for a nonprofit investigative newsroom in San Diego where I oversee the organization's core products, 
               including the website, newsletters and social media accounts. Before that, I was the assistant producer for a live, daily public affairs talk show at WOSU Public Radio in Columbus, Ohio. 
               I earned my master's from Northwestern University's Medill School of Journalism with a focus on interactive publishing.</p>
 
